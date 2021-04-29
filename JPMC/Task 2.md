@@ -51,5 +51,6 @@ top_ask_price and the x-axis is the timestamp of the stock
   
   Here are the commits with changes [1](https://github.com/LoopGlitch26/Virtual-Experiences/commit/ddebe22faf7b4743510949bf1b0d27aa615adaa5#diff-b54d1f0322ee38c5058bfc45588180e817203dea9bdc8a1ef7bf2ab6262be443) and [2](https://github.com/LoopGlitch26/Virtual-Experiences/commit/4dd850ea06cfce56991e66e7b3ab6f3e092eb74b#diff-b54d1f0322ee38c5058bfc45588180e817203dea9bdc8a1ef7bf2ab6262be443)
 
+![Screenshot 2021-04-29 at 8 46 49 PM](https://user-images.githubusercontent.com/53336715/116575237-500c3b00-a8c3-11eb-88ac-fcd3eeb81e88.png)
 
 Here's the [Patch File](https://github.com/LoopGlitch26/Virtual-Experiences/blob/main/JPMC/JPMC-tech-task-2-PY3/0001-Create-Patch-File.patch)
