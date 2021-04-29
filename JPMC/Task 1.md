@@ -28,35 +28,30 @@
 
   To set Unit tests: Build-Act-Assert
   
-  i) Build: We first build a simulated test scenario e.g. instantiating the
-dummy data we will pass in the methods we’ll test, importing the class
-whose methods we want to test, etc.
+  i) Build: We first build a simulated test scenario e.g. instantiating the dummy data we will pass in the methods we’ll test, importing the class whose methods we want to test, etc.
 
-  ii) Act: We then make some operations and call the method we want to test
-for
+  ii) Act: We then make some operations and call the method we want to test for
 
-  iii) Assert: We check if the output of the method we’re testing matches the
-expectation we have (e.g. dummy / static data of the outcome)
+  iii) Assert: We check if the output of the method we’re testing matches the expectation we have (e.g. dummy / static data of the outcome)
 
 ## Step 3: Create Patch File
 
-  A git patch file is just a file that you can apply to a repository to get the
-changes / modifications / additions another developer did on his / her machine
-onto your local machine. This isn’t the only way to do that ofcourse but this is
-a viable method for a head/lead developer to check your code first before
-merging it into the repository’s main/master branch.
+  A git patch file is just a file that you can apply to a repository to get the changes / modifications / additions another developer did on his / her machine onto your local machine. This isn’t the only way to do that ofcourse but this is a viable method for a head/lead developer to check your code first before merging it into the repository’s main/master branch.
 
-   1) git init
+   i) `git init`
    
-   ii) git add -A
+   ii) `git add -A`
    
-   iii) git config user.email "<your_email_address>"
+   iii) `git config user.email "<your_email_address>"`
 
-  iv) git config user.name "<your_name>"
+  iv) `git config user.name "<your_name>"`
 
-  v) git commit -m 'Create Patch File'
+  v) `git commit -m 'Create Patch File'`
 
-  vi) git format-patch -1 HEAD
+  vi) `git format-patch -1 HEAD`
   
-Patch file created and updated, [Source Code]()
+Patch file created and submitted, [Source Code](https://github.com/LoopGlitch26/Virtual-Experiences/blob/main/JPMC/JPMC-tech-task-1-PY3/0001-Create-Patch-File.patch)
+
+![Screenshot 2021-04-29 at 6 20 19 AM](https://user-images.githubusercontent.com/53336715/116489678-60cc9a80-a84a-11eb-8d96-d14108b8792e.png)
+
   
