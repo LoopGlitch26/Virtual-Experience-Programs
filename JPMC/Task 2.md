@@ -8,8 +8,11 @@
   
       Output: HTTP server started on port 8080
 
-  iii) Inside Source Code directory, install `npm` by `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash` and then `export NVM_DIR="/Users/loopglitch/.nvm"
-[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"`
+  iii) Inside Source Code directory, install `npm` by `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash` and then 
+  ```
+ export NVM_DIR="$HOME/.nvm"
+ [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
+```
 
   iv) Check `nvm --version` == `0.38.0`
   
