@@ -28,3 +28,14 @@
   And this is the working app: ![Screenshot 2021-04-29 at 3 57 23 PM](https://user-images.githubusercontent.com/53336715/116537348-f6901600-a89a-11eb-85ef-866745fcfa36.png)
 
   Troubleshooting steps: I had to delete the source code `node_modules` and then followed [this](https://github.com/insidesherpa/JPMC-tech-task-2/issues/24#issuecomment-623924068)
+  
+## Step 2: Making changes
+
+  There are two things we have to achieve here to complete this task
+
+  (1) Make the graph continuously update instead of having to click it a
+bunch of times. Also the kind of graph we want to serve as visual here is
+kind of a continuously updating line graph whose y axis is the stock’s
+top_ask_price and the x-axis is the timestamp of the stock
+
+  (2) Remove / disregard the duplicated data we saw earlier…
