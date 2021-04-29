@@ -38,4 +38,25 @@ for
   iii) Assert: We check if the output of the method we’re testing matches the
 expectation we have (e.g. dummy / static data of the outcome)
 
+## Step 3: Create Patch File
+
+  A git patch file is just a file that you can apply to a repository to get the
+changes / modifications / additions another developer did on his / her machine
+onto your local machine. This isn’t the only way to do that ofcourse but this is
+a viable method for a head/lead developer to check your code first before
+merging it into the repository’s main/master branch.
+
+   1) git init
+   
+   ii) git add -A
+   
+   iii) git config user.email "<your_email_address>"
+
+  iv) git config user.name "<your_name>"
+
+  v) git commit -m 'Create Patch File'
+
+  vi) git format-patch -1 HEAD
+  
+Patch file created and updated, [Source Code]()
   
