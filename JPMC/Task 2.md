@@ -54,3 +54,6 @@ top_ask_price and the x-axis is the timestamp of the stock
 ![Screenshot 2021-04-29 at 8 46 49 PM](https://user-images.githubusercontent.com/53336715/116575237-500c3b00-a8c3-11eb-88ac-fcd3eeb81e88.png)
 
 Here's the [Patch File](https://github.com/LoopGlitch26/Virtual-Experiences/blob/main/JPMC/JPMC-tech-task-2-PY3/0001-Create-Patch-File.patch)
+
+
+![Screenshot 2021-04-29 at 8 51 57 PM](https://user-images.githubusercontent.com/53336715/116577851-b42ffe80-a8c5-11eb-8bb4-ff3580479ccb.png)
