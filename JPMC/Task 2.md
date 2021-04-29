@@ -49,4 +49,4 @@ top_ask_price and the x-axis is the timestamp of the stock
 
   (2) Remove / disregard the duplicated data we saw earlier…
   
-  Here are the commits with changes [1]() and [2](https://github.com/LoopGlitch26/Virtual-Experiences/commit/4dd850ea06cfce56991e66e7b3ab6f3e092eb74b#diff-b54d1f0322ee38c5058bfc45588180e817203dea9bdc8a1ef7bf2ab6262be443)
+  Here are the commits with changes [1](https://github.com/LoopGlitch26/Virtual-Experiences/commit/ddebe22faf7b4743510949bf1b0d27aa615adaa5#diff-b54d1f0322ee38c5058bfc45588180e817203dea9bdc8a1ef7bf2ab6262be443) and [2](https://github.com/LoopGlitch26/Virtual-Experiences/commit/4dd850ea06cfce56991e66e7b3ab6f3e092eb74b#diff-b54d1f0322ee38c5058bfc45588180e817203dea9bdc8a1ef7bf2ab6262be443)
