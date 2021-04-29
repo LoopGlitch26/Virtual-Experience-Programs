@@ -22,7 +22,7 @@
   
   ii) Two incorrect things…(1) Ratio is always 1, (2) The price of each stock is always the same as its bid_price
   
-  iii) Updates in [Source Code]()
+  iii) Updates in [Source Code](https://github.com/LoopGlitch26/Virtual-Experiences/blob/main/JPMC/JPMC-tech-task-1-PY3/client3.py)
   
 ## Bonus Task
 
