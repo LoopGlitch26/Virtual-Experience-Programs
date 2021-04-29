@@ -48,3 +48,5 @@ kind of a continuously updating line graph whose y axis is the stock’s
 top_ask_price and the x-axis is the timestamp of the stock
 
   (2) Remove / disregard the duplicated data we saw earlier…
+  
+  Here are the commits with changes [1]() and [2](https://github.com/LoopGlitch26/Virtual-Experiences/commit/4dd850ea06cfce56991e66e7b3ab6f3e092eb74b#diff-b54d1f0322ee38c5058bfc45588180e817203dea9bdc8a1ef7bf2ab6262be443)
