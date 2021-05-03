@@ -29,3 +29,9 @@
               they get crossed by the ratio of the stock
               
 ![Screenshot 2021-05-03 at 5 50 59 PM](https://user-images.githubusercontent.com/53336715/116875251-7259cd80-abcf-11eb-88df-7f7e2c32310f.png)
+
+Completion:
+
+![Screenshot 2021-05-03 at 6 07 19 PM](https://user-images.githubusercontent.com/53336715/116877025-3bd18200-abd2-11eb-9229-512a5737642f.png)
+
+![Screenshot 2021-05-03 at 6 07 36 PM](https://user-images.githubusercontent.com/53336715/116877078-4c81f800-abd2-11eb-9250-ede7be9712c8.png)
